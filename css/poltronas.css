@@ -1,0 +1,4 @@
+#wrapper{width: 800px; margin: 0 auto; font-family: 'Open Sans', sans-serif; text-align: center;}
+#wrapper a{background: #069; padding: 10px 20px; color: #fff; text-decoration: none; border-radius: 3px; margin-top: 25px; display: inline-block}
+#wrapper a:hover{background: #0186c8;}
+#topo{text-align: center;}
